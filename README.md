@@ -1,4 +1,6 @@
 ## Hi there 👋
+### I'm just ur average nerd😼
+### I'm just doin' ur average nerd things😸
 
 <!--
 **NCSources0/NCSources0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
